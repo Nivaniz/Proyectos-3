@@ -8,7 +8,7 @@ Repositorio para varios proyectos complementarios en js
 
 ## Validador de Formulario
 <p align="center">
-  <img src="https://github.com/Nivaniz/Proyectos-3/blob/main/imgproyectos/agregarcursos.png" alt="Main Window" width="800">
+  <img src="https://github.com/Nivaniz/Proyectos-3/blob/main/imgproyectos/enviarmails.png" alt="Main Window" width="800">
 </p>
 
 ## Filtrado de Carros (Buscador)
